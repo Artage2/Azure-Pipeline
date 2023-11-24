@@ -1,0 +1,15 @@
+/Users/arturas.gelusevicius/Documents/Extern/LawTracker/Azure-Pipeline/bin/Debug/net8.0/Azure-Pipeline
+/Users/arturas.gelusevicius/Documents/Extern/LawTracker/Azure-Pipeline/bin/Debug/net8.0/Azure-Pipeline.deps.json
+/Users/arturas.gelusevicius/Documents/Extern/LawTracker/Azure-Pipeline/bin/Debug/net8.0/Azure-Pipeline.runtimeconfig.json
+/Users/arturas.gelusevicius/Documents/Extern/LawTracker/Azure-Pipeline/bin/Debug/net8.0/Azure-Pipeline.dll
+/Users/arturas.gelusevicius/Documents/Extern/LawTracker/Azure-Pipeline/bin/Debug/net8.0/Azure-Pipeline.pdb
+/Users/arturas.gelusevicius/Documents/Extern/LawTracker/Azure-Pipeline/obj/Debug/net8.0/Azure-Pipeline.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturas.gelusevicius/Documents/Extern/LawTracker/Azure-Pipeline/obj/Debug/net8.0/Azure-Pipeline.AssemblyInfoInputs.cache
+/Users/arturas.gelusevicius/Documents/Extern/LawTracker/Azure-Pipeline/obj/Debug/net8.0/Azure-Pipeline.AssemblyInfo.cs
+/Users/arturas.gelusevicius/Documents/Extern/LawTracker/Azure-Pipeline/obj/Debug/net8.0/Azure-Pipeline.csproj.CoreCompileInputs.cache
+/Users/arturas.gelusevicius/Documents/Extern/LawTracker/Azure-Pipeline/obj/Debug/net8.0/Azure-Pipeline.sourcelink.json
+/Users/arturas.gelusevicius/Documents/Extern/LawTracker/Azure-Pipeline/obj/Debug/net8.0/Azure-Pipeline.dll
+/Users/arturas.gelusevicius/Documents/Extern/LawTracker/Azure-Pipeline/obj/Debug/net8.0/refint/Azure-Pipeline.dll
+/Users/arturas.gelusevicius/Documents/Extern/LawTracker/Azure-Pipeline/obj/Debug/net8.0/Azure-Pipeline.pdb
+/Users/arturas.gelusevicius/Documents/Extern/LawTracker/Azure-Pipeline/obj/Debug/net8.0/Azure-Pipeline.genruntimeconfig.cache
+/Users/arturas.gelusevicius/Documents/Extern/LawTracker/Azure-Pipeline/obj/Debug/net8.0/ref/Azure-Pipeline.dll
