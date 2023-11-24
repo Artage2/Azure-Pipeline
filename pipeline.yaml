@@ -35,8 +35,8 @@ stages:
       inputs:
         SonarQube: 'SonarQubeConnection'
         scannerMode: 'MSBuild'
-        projectKey: 'YourProjectKey'
-        projectName: 'YourProjectName'
+        projectKey: 'Artage2_Azure-Pipeline'
+        projectName: 'Azure-Pipeline'
         extraProperties: |
           sonar.exclusions=**/*.css, **/*.js
 
@@ -48,16 +48,6 @@ stages:
 
     - task: SonarQubeAnalyze@4
 
-- stage: Deploy
-  jobs:
-  - job: Deploy
-    displayName: 'Deploy to Azure'
-    steps:
-    - task: AzureRmWebAppDeployment@4
+    - task: SonarQubePublish@4
       inputs:
-        ConnectionType: 'AzureRM'
-        ConnectedServiceName: 'YourAzureServiceConnection'
-        AppType: 'webApp'
-        WebAppName: 'YourWebAppName'
-        Package: '$(System.ArtifactsDirectory)/**/*.zip'
-        SetParametersFile: '**/*.Parameters.xml'
+        pollingTimeoutSec: '300'
